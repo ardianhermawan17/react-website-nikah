@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb2ed378-4256-440d-a072-09ef749f9576" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/website-nikah.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/static/images/undraw_page_not_found_su7k.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/couple1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/static/images/girl.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/static/images/man.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/static/images/undraw_page_not_found_su7k.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Auth.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Guard/AccountGuard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/LoadingScreen.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Logo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Page.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ScrollReset.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SplashScreen.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/StyledSwitch.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/SettingsContext.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useSettingsContext.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/FormLayout/NavBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/FormLayout/TopBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/FormLayout/components/CustomStepIcon.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/FormLayout/components/StepperConnectorDesktop.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/FormLayout/components/StepperConnectorMobile.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/FormLayout/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/MainLayout/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/MainLayout/TopBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/MainLayout/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/accountActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/formSelesaiActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/accountReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/formSelesaiReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/shadows.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theme/typography.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/settingsLocalStorage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Error404View.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/auth/LoginView/LoginForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/auth/LoginView/components/ImageLogin.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/auth/LoginView/components/InputFormLogin.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/auth/LoginView/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/auth/RegisterView/RegisterForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/auth/RegisterView/components/ImageRegister.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/auth/RegisterView/components/InputFormRegister.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/auth/RegisterView/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/FormNikah/FormN1/components/DesktopForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/FormNikah/FormN1/components/MobileForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/FormNikah/FormN1/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/FormNikah/FormN2/components/DesktopForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/FormNikah/FormN2/components/MobileForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/FormNikah/FormN2/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/FormNikah/FormN3/components/DesktopForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/FormNikah/FormN3/components/MobileForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/FormNikah/FormN3/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/FormNikah/FormN4/components/DesktopForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/FormNikah/FormN4/components/MobileForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/FormNikah/FormN4/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/FormSelesaiView/FormSelesai.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/FormSelesaiView/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/MainFormView/MainForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/MainFormView/components/StyledRadio.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/MainFormView/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lkBNRRN5FgHlAAFQCxu7Ms08fn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/views/pages/FormNikah/FormN4" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\PENS\semester 3\Tugas\Interaksi manusia dan komputer\Tugas Akhir\react-website-nikah\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="discord-application" />
+    <property name="ts.external.directory.path" value="D:\PENS\semester 3\Tugas\Interaksi manusia dan komputer\Tugas Akhir\react-website-nikah\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PENS\semester 3\Tugas\Interaksi manusia dan komputer\Tugas Akhir\react-website-nikah\src\views\pages\FormNikah\FormN4" />
+      <recent name="D:\PENS\semester 3\Tugas\Interaksi manusia dan komputer\Tugas Akhir\react-website-nikah\src\views\pages\FormNikah\FormN3" />
+      <recent name="D:\PENS\semester 3\Tugas\Interaksi manusia dan komputer\Tugas Akhir\react-website-nikah\src\views\pages\FormNikah\FormN2" />
+      <recent name="D:\PENS\semester 3\Tugas\Interaksi manusia dan komputer\Tugas Akhir\react-website-nikah\src\assets\static\images" />
+      <recent name="D:\PENS\semester 3\Tugas\Interaksi manusia dan komputer\Tugas Akhir\react-website-nikah\src\views\pages\RegisterView" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PENS\semester 3\Tugas\Interaksi manusia dan komputer\Tugas Akhir\react-website-nikah\src\components" />
+      <recent name="D:\PENS\semester 3\Tugas\Interaksi manusia dan komputer\Tugas Akhir\react-website-nikah\src\views\pages\FormNikah" />
+      <recent name="D:\PENS\semester 3\Tugas\Interaksi manusia dan komputer\Tugas Akhir\react-website-nikah\src\views" />
+      <recent name="D:\PENS\semester 3\Tugas\Interaksi manusia dan komputer\Tugas Akhir\react-website-nikah\src\views\auth" />
+      <recent name="D:\PENS\semester 3\Tugas\Interaksi manusia dan komputer\Tugas Akhir\react-website-nikah\src\views\Auth" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb2ed378-4256-440d-a072-09ef749f9576" name="Default Changelist" comment="" />
+      <created>1608131170219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608131170219</updated>
+      <workItem from="1608131171981" duration="583000" />
+      <workItem from="1608167305290" duration="1723000" />
+      <workItem from="1608187016823" duration="7000" />
+      <workItem from="1608187332976" duration="12373000" />
+      <workItem from="1608284020268" duration="8536000" />
+      <workItem from="1608335451590" duration="1897000" />
+      <workItem from="1608339373520" duration="5253000" />
+      <workItem from="1608379027198" duration="8961000" />
+      <workItem from="1608435986779" duration="17999000" />
+      <workItem from="1608512368367" duration="12107000" />
+      <workItem from="1608553152441" duration="1953000" />
+      <workItem from="1608555670261" duration="11019000" />
+      <workItem from="1608603161084" duration="35000" />
+      <workItem from="1608605452323" duration="8871000" />
+      <workItem from="1608688434378" duration="3024000" />
+      <workItem from="1608692382652" duration="240000" />
+      <workItem from="1608692711869" duration="9009000" />
+      <workItem from="1608731333545" duration="1223000" />
+      <workItem from="1608775742017" duration="30606000" />
+      <workItem from="1608866481906" duration="1256000" />
+      <workItem from="1608874606541" duration="14658000" />
+      <workItem from="1608951620441" duration="2881000" />
+      <workItem from="1608957460841" duration="2693000" />
+      <workItem from="1608961078569" duration="14848000" />
+      <workItem from="1609049230327" duration="9403000" />
+      <workItem from="1609060332638" duration="13950000" />
+      <workItem from="1609084698081" duration="1542000" />
+      <workItem from="1609115233559" duration="17287000" />
+      <workItem from="1609144853593" duration="17726000" />
+      <workItem from="1609174421430" duration="261000" />
+      <workItem from="1609510257234" duration="674000" />
+      <workItem from="1609672694197" duration="382000" />
+      <workItem from="1609673209983" duration="41000" />
+      <workItem from="1609678502364" duration="7821000" />
+      <workItem from="1609688338814" duration="4925000" />
+      <workItem from="1609760675065" duration="4709000" />
+      <workItem from="1609772861415" duration="2451000" />
+      <workItem from="1610196197070" duration="725000" />
+      <workItem from="1610251707052" duration="611000" />
+      <workItem from="1610255019441" duration="684000" />
+      <workItem from="1610328952338" duration="516000" />
+      <workItem from="1612698624746" duration="291000" />
+      <workItem from="1612700570521" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

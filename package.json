@@ -1,27 +1,59 @@
 {
   "name": "website-nikah",
+  "author": "Imanuddin Ardian Hermawan",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.11.6",
-    "@testing-library/react": "^11.2.2",
-    "@testing-library/user-event": "^12.6.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4"
-  },
   "scripts": {
+    "lint": "eslint ./src",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+  "dependencies": {
+    "@date-io/core": "^2.10.6",
+    "@date-io/moment": "^1.3.13",
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "@material-ui/pickers": "^3.2.10",
+    "@material-ui/styles": "^4.11.2",
+    "@react-pdf/renderer": "^1.6.12",
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.6.0",
+    "change-case": "^4.1.2",
+    "clsx": "^1.1.1",
+    "draft-js": "^0.11.7",
+    "formik": "^2.2.6",
+    "history": "^4.10.1",
+    "immer": "^8.0.0",
+    "immutable": "^4.0.0-rc.12",
+    "jss": "^10.5.0",
+    "jss-rtl": "^0.3.0",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "notistack": "^1.0.2",
+    "nprogress": "^0.2.0",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-app-polyfill": "^2.0.0",
+    "react-dom": "^17.0.1",
+    "react-draft-wysiwyg": "^1.14.5",
+    "react-helmet": "^6.1.0",
+    "react-moment": "^1.1.1",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-quill": "^1.3.5",
+    "react-redux": "^7.2.2",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "web-vitals": "^1.0.1",
+    "yup": "^0.32.8"
   },
   "browserslist": {
     "production": [
@@ -30,9 +62,24 @@
       "not op_mini all"
     ],
     "development": [
+      "ie 11",
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-mdx": "^1.8.2",
+    "eslint-plugin-prettier": "^3.3.0",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "mdx-loader": "^3.0.2",
+    "prettier": "^2.2.1",
+    "typescript": "^4.1.3"
   }
 }
